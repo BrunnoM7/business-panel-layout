@@ -1,6 +1,6 @@
 # Admin panel layout
 
-This small study project is a panel layout built during a course provided by [School of Net](https://www.schoolofnet.com/). The main objective of the project was to deliver a layout for a business platform administrative panel.
+This small study project is a panel layout built during a course provided by [School of Net](https://www.schoolofnet.com/). The main objective was to deliver a layout for a business platform administrative panel.
 
 The main technologies and libraries used in this project:
 - HTML
